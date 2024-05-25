@@ -34,8 +34,7 @@ Please don’t speak about things you don’t understand.
 How can you ask me to keep searching for reasons behind my pain? I’ve told you repeatedly why I’m suffering. Do I need more reasons to be in pain? More dramatic details in my stories? Even more stories?
 I’ve told you already. Were you not listening? Things you can endure and overcome don’t leave scars.
 It wasn’t my duty to defy the world.
-It wasn’t my destiny to become world-famous.
-That’s why it’s said to be difficult to go against the world and become famous. Why did I choose this path? It’s almost amusing now.
+ 
 It’s a miracle I’ve endured this long.
 What more can I say? Just tell me, “well done.”
 You did well. Tell me I’ve suffered enough.
