@@ -1,19 +1,44 @@
-# 💫 About Me:
-<i>I’m just a dude who’s trying his best to become a solid developer and decent human being somewhere along the way.</i>
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nassim-namous-57b856224) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20285284) 
-
-# 💻 Tech Stack:
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)   ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=namousnassim&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=namousnassim&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=namousnassim&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=namousnassim&icon=0&color=0)](https://visitcount.itsvg.in)
+Depression eroded me slowly until it completely consumed me.
+I couldn’t conquer the darkness.
+I loathed myself. No matter how hard I tried to revive my fading memories, all I encountered was silence.
+If I can’t breathe, I’d rather stop.
+I wondered who could be accountable for me.
+Only you.
+I was utterly isolated.
+Saying “I’m going to end it” is easy.
+Actually doing it is incredibly hard.
+I fought through the difficulty.
+I told myself it was just me wanting to escape from everything.
+It’s true. I genuinely wanted to flee.
+From myself.
+From you.
+I asked, “Who’s there?” It was me. Again and again.
+I asked, “Why do I keep losing my memory?” They said it was my personality. I understand now. It’s all my fault.
+I wished someone would see my suffering, but no one did. Naturally, they wouldn’t. They never really knew me.
+I wondered why people live. Just because. They live “just because.”
+If I asked why people die, they’d likely say they couldn’t endure any longer.
+My mind was swamped with troubling thoughts. I never learned how to transform dull pain into pure joy.
+Pain is simply pain.
+I kept telling myself not to do it.
+Why? Why can’t I end my life on my own terms?
+I tried to understand the roots of my pain and suffering.
+I already knew the answer. I was in pain because of myself. My numerous flaws were the cause.
+Teacher, is this what you wanted to hear?
+No. I did nothing wrong.
+I used to think it was easy for doctors to calmly blame your personality for your suffering.
+I’m amazed by the intensity of my pain. People who have suffered more than I seem to carry on just fine. Those weaker than I am also manage to live. I guess not. Among the living, no one suffers more and no one is weaker.
+The only advice I received was to “just live nevertheless.”
+Asking about the purpose of life countless times isn’t for me. It’s for you.
+I wanted to live for myself.
+Please don’t speak about things you don’t understand.
+How can you ask me to keep searching for reasons behind my pain? I’ve told you repeatedly why I’m suffering. Do I need more reasons to be in pain? More dramatic details in my stories? Even more stories?
+I’ve told you already. Were you not listening? Things you can endure and overcome don’t leave scars.
+It wasn’t my duty to defy the world.
+It wasn’t my destiny to become world-famous.
+That’s why it’s said to be difficult to go against the world and become famous. Why did I choose this path? It’s almost amusing now.
+It’s a miracle I’ve endured this long.
+What more can I say? Just tell me, “well done.”
+You did well. Tell me I’ve suffered enough.
+Even if you can’t smile right now, don’t send me off with blame.
+Well done.
+You’ve endured so much.
