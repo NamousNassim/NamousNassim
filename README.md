@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namousnassim" alt="namousnassim" /></a> </p>
 
-- 🌱 I’m currently learning **Machine learning , Backend Dev**
+- 🌱 I’m currently learning ** Game Developer and AI Engineering**
 
 - 📫 Email **nassimnamousdev@gmail.com**
 
